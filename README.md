@@ -1,5 +1,7 @@
 # ExpressMongo
-Express and mongodb example taken from this [blog](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
+Express and mongodb example
+
+Thanks to Christopher Buecheler for brilliant example on this  [blog](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/).
 
 Assume node, npm (node package manager) and mongodb is already installed
 
